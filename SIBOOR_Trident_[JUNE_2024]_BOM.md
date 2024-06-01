@@ -62,9 +62,9 @@
 |                      | 10×11 cable chain drag chain                                   | -                                             | /                                           | 1   |
 |                      | Extrusion-2020-500-LCP-RCP-AV360                               | -                                             | SIBOOR                                      | 4   |
 |                      | Extrusion-2020-420-TPW                                         | Extrusion-2020-470-TPW                        | SIBOOR                                      | 11  |
-|                      | Extrusion-2020-420-AH210-TPW                                   | Extrusion-2020-420-AH235-TPW                  | SIBOOR                                      | 1   |
+|                      | Extrusion-2020-420-AH210-TPW                                   | Extrusion-2020-470-AH235-TPW                  | SIBOOR                                      | 1   |
 |                      | Extrusion-2020-330-LTP                                         | -                                             | SIBOOR                                      | 1   |
-|                      | Extrusion-2020-420-AH210                                       | Extrusion-2020-470-AH210                      | SIBOOR                                      | 1   |
+|                      | Extrusion-2020-420-AH210                                       | Extrusion-2020-470-AH235                      | SIBOOR                                      | 1   |
 |                      | Extrusion-2020-282-LTP                                         | Extrusion-2020-332-LTP                        | SIBOOR                                      | 1   |
 |                      | Extrusion-2020-290                                             | Extrusion-2020-340                            | SIBOOR                                      | 1   |
 |                      | Extrusion-2020-500-LCH-RCH                                     | -                                             | SIBOOR                                      | 2   |
