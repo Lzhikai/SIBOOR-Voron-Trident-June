@@ -1,4 +1,4 @@
-*SIBOOR Trident [JUNE 2024] BOM
+# SIBOOR Trident [JUNE 2024] BOM
 
 
 | Category             | 300 Model                                                      | 350 Model                                     | 品牌                                          | Qty |   
