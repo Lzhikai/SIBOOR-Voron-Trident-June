@@ -10,7 +10,7 @@
 |                      | Profile groove decoration strip - 2000mm                       | -                                             | Used for routing cables in profile grooves  | 1   |
 |                      | Deck silicone seal strip - 2000mm                              | -                                             | Used for sealing the electrical compartment | 1   |
 |                      | Acrylic U-shaped groove strip - 2000mm                         | -                                             | Used for securing 3mm panels                | 1   |
-| Fasteners            | M3 aluminum washers                                            | -                                             | /                                           | 14  |
+| Fasteners            | M3 aluminum washers                                            | -                                             | /                                           | 12  |
 |                      | Trident full set of fasteners                                  | -                                             | Nickel-plated, 10.9 strength                | 1   |
 | Motion               | GT2 20T synchronous pulley (inner diameter 5mm, width 9mm)     | -                                             | SIBOOR                                      | 4   |
 |                      | GT2 20T toothed idler (inner diameter 5mm, width 9mm)          | -                                             | SIBOOR                                      | 2   |
