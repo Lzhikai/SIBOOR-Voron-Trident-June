@@ -2,8 +2,8 @@
 
 | Category             | 300 Model                                                      | 350 Model                                     | 品牌                                          | Qty |
 |----------------------|----------------------------------------------------------------|-----------------------------------------------|---------------------------------------------|-----|
-| Other                | Foam tape 3mm thick × 5 meters                                 | -                                             | 3M                                          | 1   |
-|                      | Foam tape 1mm thick × 5 meters                                 | -                                             | 3M                                          | 2   |
+| Other                | Foam tape 3mm thick × 5 meters                                 | -                                             | 3M                                          | 2   |
+|                      | Foam tape 1mm thick × 5 meters                                 | -                                             | 3M                                          | 1   |
 |                      | Hex wrench set 7 pieces                                        | -                                             | /                                           | 1   |
 |                      | Dual-head screwdriver                                          | -                                             | /                                           | 1   |
 |                      | Black cable organizer 25×25mm ＜500mm                           | -                                             | /                                           | 4   |
