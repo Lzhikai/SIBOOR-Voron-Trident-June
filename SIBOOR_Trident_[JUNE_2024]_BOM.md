@@ -27,7 +27,7 @@
 |                      | MGN9H 300mm rail mounting aluminum strip                       | -                                             | SIBOOR                                      | 3   |
 |                      | 2MGT 9mm wide open-loop timing belt - 2100mm                   | 2MGT 9mm wide open-loop timing belt - 2300mm  | Gates                                       | 2   |
 | Vibration Management | Cylindrical rubber feet                                        | -                                             | /                                           | 4   |
-| Electronics          | SIBOOR-42STH48-2004A2 motor                                    | -                                             | SIBOOR                                      | 4   |
+| Electronics          | SIBOOR-42STH48-2504A（S45） motor                                    | -                                             | SIBOOR                                      | 4   |
 |                      | SIBOOR-14STH20-1004A pancake motor                             | -                                             | SIBOOR                                      | 1   |
 |                      | SIBOOR-1684A-300 lead screw motor                              | -                                             | SIBOOR                                      | 3   |
 |                      | T8×4 black POM nut                                             | -                                             | SIBOOR                                      | 3   |
