@@ -1,4 +1,4 @@
-![image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/assets/87510573/79425d96-df2a-4766-8cac-a8aa6501dd02)![image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/assets/87510573/0e68f194-0df7-4cf1-acd3-ff386e093569)# SIBOOR Trident [JUNE 2024] BOM
+# SIBOOR Trident [JUNE 2024] BOM
 
 | Category             | 300 Model                                                      | 350 Model                                     | 品牌                                          | Qty |
 |----------------------|----------------------------------------------------------------|-----------------------------------------------|---------------------------------------------|-----|
