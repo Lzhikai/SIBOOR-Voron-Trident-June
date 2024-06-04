@@ -1,4 +1,4 @@
-# SIBOOR Trident [JUNE 2024] BOM
+![image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/assets/87510573/79425d96-df2a-4766-8cac-a8aa6501dd02)![image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/assets/87510573/0e68f194-0df7-4cf1-acd3-ff386e093569)# SIBOOR Trident [JUNE 2024] BOM
 
 | Category             | 300 Model                                                      | 350 Model                                     | 品牌                                          | Qty |
 |----------------------|----------------------------------------------------------------|-----------------------------------------------|---------------------------------------------|-----|
@@ -54,8 +54,7 @@
 |                      | Terminal Block 3-out-3×3                                       | -                                             | /                                           | 1   |
 |                      | 3M VHB tape 5952                                               | -                                             | 3M                                          | 1   |
 |                      | 12032 blower 24V                                               | -                                             | /                                           | 1   |
-|                      | Activated carbon                                               | -                                             | /                                           | 1   |
-|                      | Back air filter sponge                                         | -                                             | /                                           | 1   |
+|                      | CTC 90% columnar particles 3.0mm activated carbon 200g         | -                                             | /                                           | 1   |
 | Cables               | "Nylon cable tie 4"""                                          | -                                             | /                                           | 40  |
 |                      | Complete power supply cable set                                | -                                             | /                                           | 1   |
 |                      | 6×10 half-open cable chain                                     | -                                             | /                                           | 1   |
