@@ -2,15 +2,15 @@
 
 | Category             | 300 Model                                                      | 350 Model                                     | 品牌                                          | Qty |
 |----------------------|----------------------------------------------------------------|-----------------------------------------------|---------------------------------------------|-----|
-| Other                | Foam tape 3mm thick × 5 meters                                 | -                                             | 3M                                          | 1   |
-|                      | Foam tape 1mm thick × 5 meters                                 | -                                             | 3M                                          | 2   |
+| Other                | Foam tape 3mm thick × 5 meters                                 | -                                             | 3M                                          | 2   |
+|                      | Foam tape 1mm thick × 5 meters                                 | -                                             | 3M                                          | 1   |
 |                      | Hex wrench set 7 pieces                                        | -                                             | /                                           | 1   |
 |                      | Dual-head screwdriver                                          | -                                             | /                                           | 1   |
 |                      | Black cable organizer 25×25mm ＜500mm                           | -                                             | /                                           | 4   |
 |                      | Profile groove decoration strip - 2000mm                       | -                                             | Used for routing cables in profile grooves  | 1   |
 |                      | Deck silicone seal strip - 2000mm                              | -                                             | Used for sealing the electrical compartment | 1   |
 |                      | Acrylic U-shaped groove strip - 2000mm                         | -                                             | Used for securing 3mm panels                | 1   |
-| Fasteners            | M3 aluminum washers                                            | -                                             | /                                           | 14  |
+| Fasteners            | M3 aluminum washers                                            | -                                             | /                                           | 12  |
 |                      | Trident full set of fasteners                                  | -                                             | Nickel-plated, 10.9 strength                | 1   |
 | Motion               | GT2 20T synchronous pulley (inner diameter 5mm, width 9mm)     | -                                             | SIBOOR                                      | 4   |
 |                      | GT2 20T toothed idler (inner diameter 5mm, width 9mm)          | -                                             | SIBOOR                                      | 2   |
@@ -27,7 +27,7 @@
 |                      | MGN9H 300mm rail mounting aluminum strip                       | -                                             | SIBOOR                                      | 3   |
 |                      | 2MGT 9mm wide open-loop timing belt - 2100mm                   | 2MGT 9mm wide open-loop timing belt - 2300mm  | Gates                                       | 2   |
 | Vibration Management | Cylindrical rubber feet                                        | -                                             | /                                           | 4   |
-| Electronics          | SIBOOR-42STH48-2004A2 motor                                    | -                                             | SIBOOR                                      | 4   |
+| Electronics          | SIBOOR-42STH48-2504A（S45） motor                                    | -                                             | SIBOOR                                      | 4   |
 |                      | SIBOOR-14STH20-1004A pancake motor                             | -                                             | SIBOOR                                      | 1   |
 |                      | SIBOOR-1684A-300 lead screw motor                              | -                                             | SIBOOR                                      | 3   |
 |                      | T8×4 black POM nut                                             | -                                             | SIBOOR                                      | 3   |
@@ -54,8 +54,7 @@
 |                      | Terminal Block 3-out-3×3                                       | -                                             | /                                           | 1   |
 |                      | 3M VHB tape 5952                                               | -                                             | 3M                                          | 1   |
 |                      | 12032 blower 24V                                               | -                                             | /                                           | 1   |
-|                      | Activated carbon                                               | -                                             | /                                           | 1   |
-|                      | Back air filter sponge                                         | -                                             | /                                           | 1   |
+|                      | CTC 90% columnar particles 3.0mm activated carbon 200g         | -                                             | /                                           | 1   |
 | Cables               | "Nylon cable tie 4"""                                          | -                                             | /                                           | 40  |
 |                      | Complete power supply cable set                                | -                                             | /                                           | 1   |
 |                      | 6×10 half-open cable chain                                     | -                                             | /                                           | 1   |
