@@ -7,7 +7,6 @@
   
 <p align="center" >
     <img  src="https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/Schematic%20diagram%20of%20CNC%20AWD%20metal%20parts.jpg">
-
 </p>
 
 # <p align="center">ABS essential functional parts  </p>    
