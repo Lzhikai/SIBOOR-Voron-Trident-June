@@ -6,8 +6,8 @@
 ## <p align="center">Black and Red ----------- Black and Silver</p>    
   
 <p align="center" >
-    <img  src="https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/Schematic%20diagram%20of%20black%20and%20red%20CNC%20AWD%20metal%20parts.png" width="500" height="500">
-    <img  src="https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/Black%20and%20silver%20CNC%20AWD%20metal%20parts%20schematic%20diagram.png" width="500" height="500">
+    <img  src="https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/Schematic%20diagram%20of%20black%20and%20red%20CNC%20AWD%20metal%20parts.png" width="480" height="480">
+    <img  src="https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/Black%20and%20silver%20CNC%20AWD%20metal%20parts%20schematic%20diagram.png" width="480" height="480">
 </p>
 
 # <p align="center">ABS essential functional parts  </p>    
