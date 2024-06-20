@@ -3,10 +3,9 @@
 ![Image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/Trident-June.jpg)  
 ![Image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/Color_matching.jpg)  
 # <p align="center"> 《CNC AWD metal parts schematic diagram》</p>    
-## <p align="center">Black and Red ----------- Black and Silver</p>    
   
 <p align="center" >
-    <img  src="https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/Schematic%20diagram%20of%20CNC%20AWD%20metal%20parts.jpg">
+    <img  src="https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/Schematic%20diagram%20of%20CNC%20AWD%20metal%20components.jpg">
 </p>
 
 # <p align="center">ABS essential functional parts  </p>    
