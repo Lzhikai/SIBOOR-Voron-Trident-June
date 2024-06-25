@@ -97,10 +97,10 @@
 | Transparent PC Door Panel - 430×470×3 mm                                 | Transparent PC Door Panel - 480×470×3 mm                                 | SIBOOR        | 1   |   |
 | Transparent PC Side Panel - 433×473×3 mm                                 | Transparent PC Side Panel - 483×473×3 mm                                 | SIBOOR        | 2   |   |
 | Transparent PC Top Panel - 433×433×3 mm                                  | Transparent PC Top Panel - 483×483×3 mm                                  | SIBOOR        | 1   |   |
-| 300×300mm PRO Black Panel                                                | 350×350mm PRO Black Panel                                                | /             | 1   |   |
-| 300×300×8mm MIC6 Aluminum Plate                                          | 300×350×8mm MIC6 Aluminum Plate                                          | MIC6          | 1   |   |
-| 300×300mm 110V/220V 800W Silicone Heated Bed                             | 350×350mm 110V/220V 1000W Silicone Heated Bed                            | SIBOOR        | 1   |   |
-| Outer 10 Inner 3.5 Height 7.5 Bakelite Insulation Column                 | -                                                                        | /             | 3   |   |
+| 300×300mm PRO Black Panel                                                | 350×350mm PRO Black Panel                                                | SIBOOR        | 1   |   |
+| 300×300×8mm MIC6 Aluminum Plate                                          | 300×350×8mm MIC6 Aluminum Plate                                          | SIBOOR        | 1   |   |
+| 300×300mm 110V/220V 800W  Heated Bed                                     | 350×350mm 110V/220V 1000W  Heated Bed                                    | SIBOOR        | 1   |   |
+| φ10×7.5mm ID 3.5  Bakelite Insulation Column                             | -                                                                        | /             | 3   |   |
 | M3 Aluminum Alloy Washer                                                 | -                                                                        | /             | 14  |   |
 | Metal CNC AWD Structural Parts                                           | -                                                                        | SIBOOR        | 1   |   |
 | Heated Bed Limit Metal Block                                             | -                                                                        | SIBOOR        | 2   |   |
