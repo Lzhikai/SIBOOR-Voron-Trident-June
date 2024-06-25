@@ -80,8 +80,8 @@
 | ctc90% Columnar Granules φ3.0mm Activated Carbon 200g                    | -                                                                        | /             | 1   |   |
 | Black Nylon Cable Tie 4×150mm                                            | -                                                                        | /             | 40  |   |
 | SIBOOR Trident Full Set of Cables                                        | -                                                                        | /             | 1   |   |
-| 6×10 Semi-Open Cable Drag Chain 42 Links (including End Drag Chain Head) | 6×10 Semi-Open Cable Drag Chain 47 Links (including End Drag Chain Head) | /             | 1   |   |
-| 10×11 Openable Cable Drag Chain 24 Links (including End Drag Chain Head) | -                                                                        | /             | 1   |   |
+| 6×10 Semi-Open Cable Drag Chain 42 Links                                 | 6×10 Semi-Open Cable Drag Chain 47 Links                                 | /             | 1   |   |
+| 10×11 Openable Cable Drag Chain 24 Links                                 | -                                                                        | /             | 1   |   |
 | Extrusion-2020-500-LCP-RCP-AV360                                         | -                                                                        | SIBOOR        | 4   |   |
 | Extrusion-2020-420-TPW                                                   | Extrusion-2020-470-TPW                                                   | SIBOOR        | 11  |   |
 | Extrusion-2020-420-AH210-TPW                                             | Extrusion-2020-470-AH235-TPW                                             | SIBOOR        | 1   |   |
