@@ -11,6 +11,7 @@
 | Diagonal Rod Nut M5 Ball Nut                                             | Diagonal Rod Nut M5 Ball Nut                                             | /             | 8   |   |
 | Gold PEI 300×300mm                                                       | Gold PEI 350×350mm                                                       | SIBOOR        | 1   |   |
 | ABS Decorative Parts for 300 Model                                       | ABS Decorative Parts for 350 Model                                       | SIBOOR        | 1   |   |
+| TMC2240 Upgrade MTC5160T                                                 | TMC2240 Upgrade MTC5160T                                                 | BigTreetech   | 1   |   |
 
 | 300 Model                                                                | 350 Model                                                                | branding      | Qty |   |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------|-----|---|
