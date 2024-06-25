@@ -2,7 +2,7 @@
 
 | 300 Model (first 100 sets as gifts)                                      | 350 Model (first 100 sets as gifts)                                      | branding      | Qty |   |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------|-----|---|
-| Reinforcement                                                            | Reinforcement                                                            | SIBOOR        | 2   |   |
+| Stainless steel straight piece 18×350mm                                  | Stainless steel straight piece 18×400mm                                  | SIBOOR        | 2   |   |
 | Reinforcement Screw M3×8 FHCS                                            | Reinforcement Screw M3×8 FHCS                                            | Black Nickel Plated             | 20  |   |
 | Reinforcement Nut M3 Ball Nut                                            | Reinforcement Nut M3 Ball Nut                                            | /             | 20  |   |
 | CNC Metal Diagonal Rod                                                   | CNC Metal Diagonal Rod                                                   | SIBOOR        | 4   |   |
