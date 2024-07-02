@@ -1,4 +1,7 @@
-# SIBOOR-Voron-Trident-June 
+# SIBOOR-Voron-Trident-June  
+
+![Image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/SIBOOR-Voron-Trident-June%20Wiring%20Diagram.jpg)  
+
 ### SIBOOR-Voron-Trident-June  [BOM](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/SIBOOR_Trident_%5BJUNE_2024%5D_BOM.md)
 ![Image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/Trident-June.jpg)  
 ![Image](https://github.com/Lzhikai/SIBOOR-Voron-Trident-June/blob/main/images/Color_matching.jpg)  
