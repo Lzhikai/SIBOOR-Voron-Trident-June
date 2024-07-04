@@ -47,8 +47,8 @@
 | Linear Rail MGN9H 300mm                                                  | MGN12H 400mm Rail Fixing Aluminum Strip                                  | SIBOOR        | 3   |   |
 | MGN12H 350mm Rail Fixing Aluminum Strip                                  | MGN9H 400mm Rail Fixing Aluminum Strip                                   | SIBOOR        | 1   |   |
 | MGN9H 350mm Rail Fixing Aluminum Strip                                   | -                                                                        | SIBOOR        | 2   |   |
-| MGN9H 300mm Rail Fixing Aluminum Strip                                   | 2MGT 9mm Wide Open Loop Timing Belt 2300mm                               | SIBOOR        | 3   |   |
-| 2MGT 9mm Wide Open Loop Timing Belt 2100mm                               | -                                                                        | Gates         | 2   |   |
+| MGN9H 300mm Rail Fixing Aluminum Strip                                   | -                                                                        | SIBOOR        | 3   |   |
+| 2MGT 9mm Wide Open Loop Timing Belt 2100mm                               | 2MGT 9mm Wide Open Loop Timing Belt 2300mm                               | Gates         | 2   |   |
 | φ38×19mm Bore 6mm Cylindrical Rubber Foot                                | -                                                                        | /             | 4   |   |
 | SIBOOR-42STH48-2504A (S45) Motor                                         | -                                                                        | SIBOOR        | 4   |   |
 | SIBOOR-14STH20-1004A Pancake Motor                                       | -                                                                        | SIBOOR        | 1   |   |
